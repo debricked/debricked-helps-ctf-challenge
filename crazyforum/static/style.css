@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: #00FF66;
+    font-family:'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;
+}
+
+.ascii {
+    display:inline-block;
+    white-space:pre;
+    letter-spacing:0;
+    line-height:1.4;
+    font-size:5px;
+}
+
+.posts {
+    padding-left: 30px;
+}
+
+.post {
+    margin: 30px;
+    border-color: #00FF66;
+    border-style: solid none none none;
+}
+
+.menu {
+    float: right;
+    padding-right: 30px;
+}
+
+.menu li a {
+    color: #00FF66;
+}
